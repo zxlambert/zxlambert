@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @goblinzz
 - 👀 I’m interested in Blockchain and AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Lua and Rust
