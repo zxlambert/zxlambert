@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @zxlambert
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python, Lua and C
+- 👀 I’m interested in Web Development and AI
+- 🌱 I’m currently learning JavaSript and Python
