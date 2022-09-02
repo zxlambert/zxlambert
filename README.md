@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @goblinzz
+- 👋 Hi, I’m @zxlambert
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python, Lua and C
